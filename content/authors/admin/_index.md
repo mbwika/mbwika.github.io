@@ -96,12 +96,12 @@ skills:
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:collinsmbwika10@gmail.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: x
+  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/CollinsColonel
     label: Follow me on X
@@ -117,7 +117,7 @@ social:
     link: https://github.com/mbwika
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/collins-mwange
+    link: https://www.linkedin.com/in/collins-mwange/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
