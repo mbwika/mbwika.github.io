@@ -56,8 +56,8 @@ skills:
       - name: Pentesting
         description: ''
         percent: 70
-        icon: penetration-testing
-        icon_pack: fas
+        icon: hack
+        icon_pack: fab
       - name: Android Development
         description: ''
         percent: 90
@@ -71,26 +71,26 @@ skills:
       - name: Network Security
         description: ''
         percent: 70
-        icon: network
+        icon: computer-network
         icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+    - name: Soccer
+        description: ''
+        percent: 90
+        icon: soccer 
+        icon_pack: fas
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 70
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Movies
         description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 60
+        icon: video
         icon_pack: fas
 
 # Social/Academic Networking
@@ -101,21 +101,23 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: x
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://twitter.com/CollinsColonel
+    label: Follow me on X
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    display:
+      icon: false
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mbwika
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/collins-mwange
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -127,5 +129,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Collins Mbwika Mwange is a master's cybersecurity student at the university of Texas at Dallas. His research interests include privacy, software and network security, while his professional interests include software engineering and cybersecurity. He is actively involved in cybersecurity, privacy, and software research and some of his projects are available on GitHub and at Code and Security.
 {style="text-align: justify;"}
