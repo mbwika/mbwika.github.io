@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Collins Mbwika Mwange
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Collins
+last_name: Mwange
 
 # Status emoji
 status:
@@ -17,55 +17,62 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MS Cybersecurity Student/DevSecOps Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Texas at Dallas
+    url: https://www.utdallas.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include privacy, software and network security, while my professional interests include software engineering and cybersecurity.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cybersecurity
+  - Software Engineering
+  - Privacy
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Cybersecurity, Technology, and Policy
+      institution: The University of Texas at Dallas
+      year: 2024
+    - course: BS in Computer Science
+      institution: Maseno University - Kenya.
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Java Programming
         description: ''
         percent: 80
-        icon: python
+        icon: java
         icon_pack: fab
-      - name: Data Science
+      - name: Pentesting
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 70
+        icon: penetration-testing
         icon_pack: fas
+      - name: Android Development
+        description: ''
+        percent: 90
+        icon: android
+        icon_pack: fab
       - name: SQL
         description: ''
-        percent: 40
+        percent: 70
         icon: database
         icon_pack: fas
+      - name: Network Security
+        description: ''
+        percent: 70
+        icon: network
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
