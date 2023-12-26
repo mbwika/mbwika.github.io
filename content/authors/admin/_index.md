@@ -80,7 +80,7 @@ skills:
     - name: Soccer
         description: ''
         percent: 90
-        icon: soccer 
+        icon: ball 
         icon_pack: fas
       - name: Hiking
         description: ''
