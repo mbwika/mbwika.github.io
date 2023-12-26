@@ -82,6 +82,11 @@ skills:
         percent: 70
         icon: person-hiking
         icon_pack: fas
+      - name: Soccer
+        description: ''
+        percent: 90
+        icon: ball 
+        icon_pack: fas
       - name: Movies
         description: ''
         percent: 60
