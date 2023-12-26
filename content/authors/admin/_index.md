@@ -77,11 +77,6 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Soccer
-        description: ''
-        percent: 90
-        icon: ball 
-        icon_pack: fas
       - name: Hiking
         description: ''
         percent: 70
