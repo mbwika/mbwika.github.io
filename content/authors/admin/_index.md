@@ -30,7 +30,10 @@ bio: My research interests include privacy, software and network security, while
 # Interests to show in About widget
 interests:
   - Cybersecurity
+  - Application Security
   - Software Engineering
+  - Ethical Hacking
+  - Software Reverse Engineering
   - Privacy
 
 # Education to show in About widget
