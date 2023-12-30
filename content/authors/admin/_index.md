@@ -39,10 +39,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MS in Cybersecurity, Technology, and Policy
+    - course: MS Cybersecurity, Technology, and Policy
       institution: The University of Texas at Dallas
       year: 2024
-    - course: BS in Computer Science
+    - course: BS Computer Science
       institution: Maseno University - Kenya.
       year: 2019
 
@@ -112,7 +112,7 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://codensecurity.com 
     display:
       icon: false
   - icon: github
@@ -126,11 +126,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    # link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Collins Mbwika Mwange is a master's cybersecurity student at the university of Texas at Dallas. His research interests include privacy, software and network security, while his professional interests include software engineering and cybersecurity. He is actively involved in cybersecurity, privacy, and software research and some of his projects are available on GitHub and at Code and Security.
+Collins Mbwika Mwange is an MS Cybersecurity student at The University of Texas at Dallas. His research interests include privacy, application and network security, while his professional interests include software engineering and cybersecurity. He is actively involved in cybersecurity, privacy, and software research and some of his projects are available on GitHub and at Code and Security.
 {style="text-align: justify;"}

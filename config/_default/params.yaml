@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    # description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    # twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Collins Mwange. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -69,10 +69,10 @@ features:
     enable: false
   privacy_pack:
     enable: false
-  repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
-    branch: main
+  # repository:
+  #   url: 'https://github.com/<mbwika>/<repository>'
+  #   content_dir: content
+  #   branch: main
   avatar:
     gravatar: false
     shape: circle
