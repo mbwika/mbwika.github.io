@@ -121,13 +121,6 @@ sections:
           organization_url: https://codensecurity.com/hacks  
           title: Android Trojan Horse Spyware
           url: https://horse.codensecurity.com
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023-10-25'
-          description: ''
-          icon: ieee
-          title: Android Trojan Horse Spyware Attack: A Practical Implementation
-          url: 'https://isdfs.org'
         - certificate_url: https://www.datacamp.com
           date_end: '2023-08-21'
           date_start: '2023-11-01'
