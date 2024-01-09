@@ -118,7 +118,7 @@ sections:
           description: ''
           icon: ieee
           organization: ISDFS
-          organization_url: https://isdfs.org
+          organization_url: 'https://isdfs.org'
           title: Android Trojan Horse Spyware Attack: A Practical Implementation
           url: ''
         - certificate_url: https://horse.codensecurity.com
