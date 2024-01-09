@@ -112,15 +112,6 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023-10-25'
-          description: ''
-          icon: ieee
-          organization: ISDFS
-          organization_url: 'https://isdfs.org'
-          title: Android Trojan Horse Spyware Attack: A Practical Implementation
-          url: ''
         - certificate_url: https://horse.codensecurity.com
           date_end: ''
           date_start: '2023-10-25'
