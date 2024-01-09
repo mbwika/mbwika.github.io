@@ -126,7 +126,7 @@ sections:
           date_start: '2023-10-25'
           description: ''
           icon: ieee
-          organization: isdfs
+          organization: 'ISDFS'
           organization_url: 'https://isdfs.org'
           title: Android Trojan Horse Spyware Attack: A Practical Implementation
           url: ''
