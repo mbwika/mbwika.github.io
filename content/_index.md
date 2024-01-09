@@ -118,7 +118,7 @@ sections:
           description: ''
           icon: ieee
           organization: IEEE
-          organization_url: https://isdfs.org/
+          organization_url: https://isdfs.org
           title: Android Trojan Horse Spyware Attack: A Practical Implementation
           url: ''
         - certificate_url: https://horse.codensecurity.com
@@ -148,7 +148,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      #count: 5
+      count: 5
       # Filter on criteria
       filters:
         folders:
