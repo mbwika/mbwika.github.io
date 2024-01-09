@@ -64,7 +64,7 @@ sections:
       items:
         - title: Freelancer (Software & Cybersecurity)
           company: Code & Security
-          company_url: https://codensecurity.edu
+          company_url: https://codensecurity.com
           location: Texas
           date_start: '2020-09-15'
           date_end: ''
@@ -92,43 +92,47 @@ sections:
           location: Mombasa
           date_start: '2016-05-01'
           date_end: '2016-09-30'
-          description: Improved overall user experience through support, training, troubleshooting, improvements, and
-          communication of system changes, and was acknowledged as the most productive intern of the cohort.:
+          description: |2-
+              Responsibilities included:
+
+              * Business Operation support
+              * LAN support
+              * Training employees
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
+      title: 'Research Paper'
+      subtitle: 
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+      date_format: Jan 2024
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-10-25'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon: ieee
+          organization: IEEE
+          organization_url: https://isdfs.org/
+          title: Android Trojan Horse Spyware Attack: A Practical Implementation
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://horse.codensecurity.com
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          date_start: '2023-10-25'
+          description: Developed an Android Trojan Horse Spyware.
+          icon: trojan-horse
+          organization: Code & Security
+          organization_url: https://codensecurity.com/hacks  
+          title: Android Trojan Horse Spyware
+          url: https://horse.codensecurity.com
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: '2023-08-21'
+          date_start: '2023-11-01'
           description: ''
           icon: datacamp
           organization: DataCamp
@@ -178,77 +182,77 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-  #     buttons:
-  #       - name: All
-  #         tag: '*'
-  #       - name: Deep Learning
-  #         tag: Deep Learning
-  #       - name: Other
-  #         tag: Demo
-  #   design:
-  #     # Choose how many columns the section has. Valid values: '1' or '2'.
-  #     columns: '1'
-  #     view: showcase
-  #     # For Showcase view, flip alternate rows?
-  #     flip_alt_rows: false
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: '1'
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: |-
-  #       {{% callout note %}}
-  #       Quickly discover relevant content by [filtering publications](./publication/).
-  #       {{% /callout %}}
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: true
-  #   design:
-  #     columns: '2'
-  #     view: citation
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     columns: '2'
-  #     view: compact
-  # - block: tag_cloud
-  #   content:
-  #     title: Popular Topics
-  #   design:
-  #     columns: '2'
+       buttons:
+         - name: All
+           tag: '*'
+         - name: Deep Learning
+           tag: Deep Learning
+         - name: Other
+           tag: Demo
+     design:
+       # Choose how many columns the section has. Valid values: '1' or '2'.
+       columns: '1'
+       view: showcase
+       # For Showcase view, flip alternate rows?
+       flip_alt_rows: false
+   - block: markdown
+     content:
+       title: Gallery
+       subtitle: ''
+       text: |-
+         {{< gallery album="demo" >}}
+     design:
+       columns: '1'
+   - block: collection
+     id: featured
+     content:
+       title: Featured Publications
+       filters:
+         folders:
+           - publication
+         featured_only: true
+     design:
+       columns: '2'
+       view: card
+   - block: collection
+     content:
+       title: Recent Publications
+       text: |-
+         {{% callout note %}}
+         Quickly discover relevant content by [filtering publications](./publication/).
+         {{% /callout %}}
+       filters:
+         folders:
+           - publication
+         exclude_featured: true
+     design:
+       columns: '2'
+       view: citation
+   - block: collection
+     id: talks
+     content:
+       title: Recent & Upcoming Talks
+       filters:
+         folders:
+           - event
+     design:
+       columns: '2'
+       view: compact
+   - block: tag_cloud
+     content:
+       title: Popular Topics
+     design:
+       columns: '2'
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        To get in touch with me, send me a message by filling and submiting the form below.
+        If you would like to contact me, please send me an email.
       # Contact (add or remove contact options as necessary)
       email: collinsmbwika10@gmail.com
-      phone: +1 682 406 ****
+      # phone: +1 682 406 ****
       # appointment_url: 'https://calendly.com'
       address:
         street: 3100 Northside Blvd.
@@ -279,15 +283,15 @@ sections:
           name: Zoom Me
           link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+      #autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #    captcha: false
     design:
       columns: '2'
 ---
