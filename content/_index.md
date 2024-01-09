@@ -62,28 +62,38 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Freelancer (Software & Cybersecurity)
+          company: Code & Security
+          company_url: https://codensecurity.edu
+          location: Texas
+          date_start: '2020-09-15'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Functions include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
+              * Software Development
+              * Cybersecurity consulting
+              * Research
+        - title: Systems Support Intern
+          company: Kenya Ports Authority (KPA)
+          company_url: https://kpa.co.ke 
+          location: Mombasa
+          date_start: '2017-05-01'
+          date_end: '2017-08-31'
+          description: |2-
+              Responsibilities included:
+
+              * Computer support
+              * Network support
+              * Technology improvement
+        - title: IT Support Intern
+          company: Postal Corporation of Kenya (PCK)
+          company_url: https://posta.co.ke 
+          location: Mombasa
+          date_start: '2016-05-01'
+          date_end: '2016-09-30'
+          description: Improved overall user experience through support, training, troubleshooting, improvements, and
+          communication of system changes, and was acknowledged as the most productive intern of the cohort.:
       columns: '2'
   - block: accomplishments
     content:
