@@ -117,7 +117,7 @@ sections:
           date_start: '2023-10-25'
           description: ''
           icon: ieee
-          organization: IEEE
+          organization: ISDFS
           organization_url: https://isdfs.org
           title: Android Trojan Horse Spyware Attack: A Practical Implementation
           url: ''
@@ -126,7 +126,7 @@ sections:
           date_start: '2023-10-25'
           description: Developed an Android Trojan Horse Spyware.
           icon: trojan-horse
-          organization: Code & Security
+          organization: Code and Security
           organization_url: https://codensecurity.com/hacks  
           title: Android Trojan Horse Spyware
           url: https://horse.codensecurity.com
