@@ -126,10 +126,9 @@ sections:
           date_start: '2023-10-25'
           description: ''
           icon: ieee
-          organization: 'ISDFS'
-  #        organization_url: https://isdfs.org 
+          organization: ISDFS
           title: Android Trojan Horse Spyware Attack: A Practical Implementation
-          url: ''
+          url: 'https://isdfs.org'
         - certificate_url: https://www.datacamp.com
           date_end: '2023-08-21'
           date_start: '2023-11-01'
