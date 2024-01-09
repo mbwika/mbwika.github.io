@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MS Cybersecurity Student/DevSecOps Engineer
+role: MS Cybersecurity Student | DevSecOps Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -33,7 +33,7 @@ interests:
   - Application Security
   - Software Engineering
   - Ethical Hacking
-  - Software Reverse Engineering
+  - Reverse Engineering & Malware Analysis
   - Privacy
 
 # Education to show in About widget
@@ -66,6 +66,11 @@ skills:
         percent: 90
         icon: android
         icon_pack: fab
+      - name: Web Programming
+        description: ''
+        percent: 70
+        icon: PHP
+        icon_pack: fas
       - name: SQL
         description: ''
         percent: 70
@@ -80,15 +85,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Soccer
+        description: ''
+        percent: 90
+        icon: soccer 
+        icon_pack: fas
       - name: Hiking
         description: ''
         percent: 70
         icon: person-hiking
-        icon_pack: fas
-      - name: Soccer
-        description: ''
-        percent: 90
-        icon: ball 
         icon_pack: fas
       - name: Movies
         description: ''
@@ -132,5 +137,5 @@ social:
 highlight_name: true
 ---
 
-Collins Mbwika Mwange is an MS Cybersecurity student at The University of Texas at Dallas. His research interests include privacy, application and network security, while his professional interests include software engineering and cybersecurity. He is actively involved in cybersecurity, privacy, and software research and some of his projects are available on GitHub and at Code and Security.
+Collins Mbwika Mwange is a Cybersecurity graduate student at The University of Texas at Dallas. His research interests include privacy, application, and network security, while his professional interests include software engineering and cybersecurity. He is actively involved in cybersecurity, privacy, and software research and some of his projects are available on GitHub and at Code and Security.
 {style="text-align: justify;"}
