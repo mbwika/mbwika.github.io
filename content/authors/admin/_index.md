@@ -107,15 +107,15 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:collinsmbwika10@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/CollinsColonel
     label: Follow me on X
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `graduation-cap` icon from `fas` icon pack 
+    icon_pack: ai
     link: https://codensecurity.com 
     display:
       icon: false
