@@ -11,13 +11,13 @@ last_name: Mwange
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💻
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: MS Cybersecurity Student | DevSecOps Engineer
+role: MS Cybersecurity Student | Cybersecurity & Software Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,16 +25,15 @@ organizations:
     url: https://www.utdallas.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include privacy, software and network security, while my professional interests include software engineering and cybersecurity.
+bio: Experienced software developer and a cybersecurity researcher. Interests include application and network security, software & malware development and analysis, cracking CTF challenges, and pen-testing.
 
 # Interests to show in About widget
 interests:
-  - Cybersecurity
   - Application Security
-  - Software Engineering
-  - Ethical Hacking
+  - Software Development
+  - CTF Challenges | Ethical Hacking
   - Reverse Engineering & Malware Analysis
-  - Privacy
+  - Pentesting
 
 # Education to show in About widget
 education:
@@ -88,7 +87,7 @@ skills:
       - name: Soccer
         description: ''
         percent: 90
-        icon: soccer 
+        icon: Soccer 
         icon_pack: fas
       - name: Hiking
         description: ''
@@ -131,11 +130,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    # link: uploads/resume.pdf
+    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Collins Mbwika Mwange is a Cybersecurity graduate student at The University of Texas at Dallas. His research interests include privacy, application, and network security, while his professional interests include software engineering and cybersecurity. He is actively involved in cybersecurity, privacy, and software research and some of his projects are available on GitHub and at Code and Security.
+Collins Mbwika Mwange is a Cybersecurity graduate student at The University of Texas at Dallas. His research interests include application security, malware analysis and development, and network security, while his professional interests include software engineering and cybersecurity. He is actively involved in cybersecurity research and occasionally presents his work at international conferences. Some of his projects are available on GitHub [https://github.com/mbwika] and at Code & Security [https://codensecurity.com].
 {style="text-align: justify;"}
