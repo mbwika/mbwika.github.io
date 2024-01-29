@@ -1,86 +1,73 @@
-<!-- ---
-title: 'An example conference paper'
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
-authors:
-  - admin
-  - Robert Ford
+title: Symposium Presentation
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+event: The 12th International Symposium on Digital Forensics and Security (ISDFS 2024)
+event_url: https://isdfs.org/
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+location: Trinity University
+address: 
+  street: 106 Oakmont Ct
+  city: San Antonio
+  region: TX
+  postcode: '78212'
+  country: United States
 
-# Schedule page publish date (NOT publication's date).
+summary: The 12th International Symposium on Digital Forensics and Security (ISDFS 2024) will be held both ONLINE and in person at Trinity University on April 29-30, 2024.
+abstract: 'ISDFS is the premier event that brings together industry professionals, academics, and engineers to exchange information and ideas on digital forensics, cybersecurity, big data privacy and security, artificial intelligence in security and forensics, software engineering, signal processing, and computer science in general. The symposium program will include special sessions, workshops, tutorials, keynotes, panel discussions, posters, and oral presentations.'
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2024-04-29T13:00:00Z'
+date_end: '2024-04-30T15:00:00Z'
+all_day: false
+
+# Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+authors: [Collins Mwange, Ebru Cankaya]
+tags: [Trojan horses, Android spyware, malware threat and spyware code]
 
-# Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+# Is this a featured talk? (true/false)
+featured: false
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+  caption: 'Image credit: [**Unsplash**](https://isdfs.org/wp-content/uploads/2023/07/cropped-ISDFS2024Banner-KTU.png)'
+  focal_point: Right
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/collinscolonel
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
 slides: example
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+  - Android Trojan Horse Spyware
 ---
 
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+Slides can be added in a few ways:
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
