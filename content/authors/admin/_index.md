@@ -40,10 +40,10 @@ education:
   courses:
     - course: MS Cybersecurity, Technology, and Policy
       institution: The University of Texas at Dallas
-      year: 2024
+      year: May 2025
     - course: BS Computer Science
       institution: Maseno University - Kenya.
-      year: 2019
+      year: Dec 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
