@@ -6,7 +6,7 @@ title: Collins Mbwika Mwange
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Collins
+first_name: Collins Mbwika
 last_name: Mwange
 
 # Status emoji
@@ -17,28 +17,30 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MS Cybersecurity Student | Cybersecurity & Software Developer
+role: DevSecOp Engineer | Founder of Code & Security | MS Cybersecurity & Policy
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: The University of Texas at Dallas
     url: https://www.utdallas.edu/
+  - name: Code & Security
+    url: https://codensecurity.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Experienced software developer and a cybersecurity researcher. Interests include application and network security, software & malware development and analysis, cracking CTF challenges, and pen-testing.
+bio: Collins is an experienced software developer and a cybersecurity expert. He's the founder of Code & Security, a startup that offers software solutions, cybersecurity consultancy, and training in Software Development, Cybersecurity, and Data Analytics.
 
 # Interests to show in About widget
 interests:
   - Application Security
   - Software Development
-  - CTF Challenges | Ethical Hacking
+  - Ethical Hacking
   - Reverse Engineering & Malware Analysis
-  - Pentesting
+  - Teaching
 
 # Education to show in About widget
 education:
   courses:
-    - course: MS Cybersecurity, Technology, and Policy
+    - course: MS Cybersecurity and Policy
       institution: The University of Texas at Dallas
       year: May 2025
     - course: BS Computer Science
@@ -58,7 +60,7 @@ skills:
       - name: Pentesting
         description: ''
         percent: 70
-        icon: hack
+        icon: computer
         icon_pack: fab
       - name: Android Development
         description: ''
@@ -68,7 +70,7 @@ skills:
       - name: Web Programming
         description: ''
         percent: 70
-        icon: PHP
+        icon: internet
         icon_pack: fas
       - name: SQL
         description: ''
@@ -78,7 +80,7 @@ skills:
       - name: Network Security
         description: ''
         percent: 70
-        icon: computer-network
+        icon: network
         icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
@@ -87,7 +89,7 @@ skills:
       - name: Soccer
         description: ''
         percent: 90
-        icon: Soccer 
+        icon: ball 
         icon_pack: fas
       - name: Hiking
         description: ''
@@ -125,16 +127,18 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/collins-mwange/
+  - icon: cv
+    icon_pack: ai
+    link: static/uploads/resume.pdf
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Collins Mbwika Mwange is a Cybersecurity graduate student at The University of Texas at Dallas. His research interests include application security, malware analysis and development, and network security, while his professional interests include software engineering and cybersecurity. He is actively involved in cybersecurity research and occasionally presents his work at international conferences. Some of his projects are available on GitHub [https://github.com/mbwika] and at Code & Security [https://codensecurity.com].
+Collins is an experienced software developer and a cybersecurity expert. He's the founder of Code & Security, a startup that offers software solutions, cybersecurity consultancy, and training in Software Development, Cybersecurity, and Data Analytics.
+Collins is currently studying MS in Cybersecurity and Policy at The University of Texas at Dallas. He holds a student job at Bass School where he is responsible for software development and cybersecurity. Additionally, he serves as an ambassador for the university to external constituents responsible for delegation and diplomacy. 
+Collins' interests span software, cybersecurity, big data, leadership, entrepreneurship, and teaching. He is actively involved in cybersecurity research and occasionally presents his work at international conferences. Some of his projects are available on GitHub [https://github.com/mbwika] and at Code & Security [https://codensecurity.com].
 {style="text-align: justify;"}
