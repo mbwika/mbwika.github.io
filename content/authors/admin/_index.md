@@ -139,6 +139,6 @@ highlight_name: true
 ---
 
 Collins is an experienced software developer and a cybersecurity expert. He's the founder of Code & Security, a startup that offers software solutions, cybersecurity consultancy, and training in Software Development, Cybersecurity, and Data Analytics.
-Collins is currently studying MS in Cybersecurity and Policy at The University of Texas at Dallas. He holds a student job at Bass School where he is responsible for software development and cybersecurity. Additionally, he serves as an ambassador for the university to external constituents responsible for delegation and diplomacy. 
+Collins is currently studying MS in Cybersecurity and Policy at The University of Texas at Dallas (UTD). He holds a student job at Bass School where he is responsible for software development and cybersecurity. Additionally, he serves as an ambassador for the university to external constituents responsible for delegation and diplomacy. 
 Collins' interests span software, cybersecurity, big data, leadership, entrepreneurship, and teaching. He is actively involved in cybersecurity research and occasionally presents his work at international conferences. Some of his projects are available on GitHub [https://github.com/mbwika] and at Code & Security [https://codensecurity.com].
 {style="text-align: justify;"}
